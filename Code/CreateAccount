@@ -1,0 +1,24 @@
+<html lang= "en"/>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="Login.css">
+	</head>
+	
+	<body>
+		Username: <input type="text" placeholder="Enter Username" name="username" required>
+		<br>
+		Email: <input type="text" placeholder="Email" name="email" required>
+		<br>
+		Password: <input type="password" placeholder="Password" name="password" required>
+		<br>
+		Resubmit Password: <input type="password" placeholder="Resubmit Password" name="resubmitPassword" required>
+		<br>
+		First Name: <input type="text" placeholder="First Name" name="fn" required>
+		<br>
+		Name of Institution: <input type="text" placeholder="Name of Institution" name="institution name">
+		<br>
+		<button type="Submit">Create Account</button>
+		
+		
+	</body>
+</html>
